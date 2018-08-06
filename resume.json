@@ -1,0 +1,66 @@
+var resume={
+	"identity":[
+		{
+			"about":"ABOUT ME",
+			"email":"viram1999@gmail.com",
+			"mobile":"28819093",
+			"git":"https://github.com/viram-ms",
+			"link":""
+		}
+	],
+
+	"objective":[
+		{
+		"title":"To be able to work for an encouraging and stable company that assist me in developing, improving and obtaining the necessary skills in order to become the best engineer possible"
+		}
+
+	],
+	"education":[
+		{
+		"dj":[
+			{
+				"name":"D.J. Sanghvi college of engineering",
+				"location":"Mumbai",
+				"time":"2017-2018",
+				"cgpa":"9.15"
+			}
+		],
+		"ca":[
+			{
+				"name":"Children's Academy",
+				"location":"Mumbai",
+				"time":"2005-2015",
+				"percent":"95%"	
+			}
+		],
+		"pace":[
+			{
+			"name":"Pace junior science college",
+				"location":"Mumbai",
+				"time":"2015-2017",
+				"percent":"86%"	
+			}
+		]
+		}
+	],
+	"skill":[
+		{
+			"languages":[
+				"JAVA",
+				"JAVASCRIPT",
+				"C",
+				"C++"
+			],
+			"frontend":[
+				"HTML5",
+				"CSS3",
+				"BOOTSTRAP 4",
+				"Jquery"
+			],
+			"backend":[
+				"PHP",
+				"MySQL"
+			]
+		}
+	]
+}
